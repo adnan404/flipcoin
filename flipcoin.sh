@@ -1,3 +1,4 @@
+
 t=0
 h=0
 
@@ -23,5 +24,3 @@ fi
 done
 
 echo "head="$h"and tail="$t
-
-
